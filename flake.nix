@@ -29,6 +29,7 @@
           pkgs.charles
           pkgs.pritunl-client
 	  pkgs.rancher
+	  pkgs.teams
           # pkgs.firefox ¿no existe in aarch64-apple-darwin?:
           # Terminal
           pkgs.neofetch
